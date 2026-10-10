@@ -9,8 +9,8 @@ Designed specifically for technical interviews, following a clean **three-layer 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/TIRTH1818y/ExpenseCalculator/raw/master/screenshots/s2.jpeg" alt="ExpenseCalculator home screen" width="300" />
-  <img src="https://github.com/TIRTH1818y/ExpenseCalculator/raw/master/screenshots/s1.jpeg" alt="ExpenseCalculator add expense screen" width="300" />
+  <img src="https://github.com/TIRTH1818y/ExpenseCalculator/raw/master/screenshort/s2.jpeg" alt="ExpenseCalculator home screen" width="300" />
+  <img src="https://github.com/TIRTH1818y/ExpenseCalculator/raw/master/screenshort/s1.jpeg" alt="ExpenseCalculator add expense screen" width="300" />
 </p>
 
 ---
