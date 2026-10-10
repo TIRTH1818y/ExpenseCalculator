@@ -1,15 +1,24 @@
 # Expense Calculator - Android Application
 
-A complete, production-ready native Android application built with **Kotlin**, **XML Layouts**, and **SQLite (SQLiteOpenHelper)** to record, view, calculate, search, filter, and delete daily personal expenses.
+A complete, production-ready native Android application built with **Kotlin**, **XML Layouts**, and **SQLite (SQLiteOpenHelper)** to record, view, calculate, search, filter, and delete daily personal expenses offline.
 
 Designed specifically for technical interviews, following a clean **three-layer architecture** with beginner-friendly, well-documented code.
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/home_screen.png" alt="ExpenseCalculator home screen" width="300" />
+  <img src="screenshots/add_expense.png" alt="ExpenseCalculator add expense screen" width="300" />
+</p>
 
 ---
 
 ## 1. Project Objective & Problem Statement
 
 ### Objective
-Provide users with an intuitive, reliable, and completely offline financial dashboard to manage their daily expenses across key categories, view instant real-time financial summaries, and perform fast search and filtering.
+Provide users with an intuitive, reliable, and completely offline financial dashboard to manage their daily expenses across key categories, view instant real-time financial summaries, and perform quick record management.
 
 ### Problem Statement
 Managing daily cash outlays and card spending requires a straightforward tool without the latency, privacy risks, or connectivity dependency of cloud applications. Users need:
@@ -56,7 +65,7 @@ Managing daily cash outlays and card spending requires a straightforward tool wi
    - Clear search button and "Reset Filters" action on empty search results.
 5. **Safe Expense Deletion**:
    - Tap delete icon to show an Android confirmation dialog with the item title.
-   - Reversible cancelation; immediate SQLite deletion on confirmation.
+   - Reversible cancellation; immediate SQLite deletion on confirmation.
    - Automatic dashboard recalculation.
 6. **Robust Input Validation (`BigDecimal`)**:
    - Title must not be blank or whitespace-only.
@@ -75,12 +84,12 @@ The application adopts a **3-Layer Architecture**:
 
 ```
 Presentation Layer (Activities, Adapters, XML Layouts)
-               │
-               ▼
-   Repository Layer (ExpenseRepository)
-               │
-               ▼
-   Persistence Layer (DatabaseHelper, SQLite)
+                │
+                ▼
+    Repository Layer (ExpenseRepository)
+                │
+                ▼
+    Persistence Layer (DatabaseHelper, SQLite)
 ```
 
 ### Folder Structure
