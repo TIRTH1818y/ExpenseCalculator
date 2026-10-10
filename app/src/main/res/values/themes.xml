@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExpenseCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Brand Colors -->
+        <item name="colorPrimary">@color/primary_navy</item>
+        <item name="colorPrimaryVariant">@color/primary_navy_dark</item>
+        <item name="colorSecondary">@color/accent_green</item>
+        <item name="colorSecondaryVariant">@color/accent_green_light</item>
+        <item name="colorOnPrimary">@color/surface_white</item>
+        <item name="colorOnSecondary">@color/surface_white</item>
+        
+        <!-- System bars -->
+        <item name="android:statusBarColor">@color/primary_navy</item>
+        <item name="android:windowBackground">@color/bg_light</item>
+        <item name="android:navigationBarColor">@color/surface_white</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">true</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+
+    <style name="Theme.ExpenseCalculator" parent="Base.Theme.ExpenseCalculator" />
+</resources>

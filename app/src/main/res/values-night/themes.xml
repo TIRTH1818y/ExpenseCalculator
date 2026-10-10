@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for dark mode. -->
+    <style name="Base.Theme.ExpenseCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_navy_light</item>
+        <item name="colorPrimaryVariant">@color/primary_navy</item>
+        <item name="colorSecondary">@color/accent_green_light</item>
+        <item name="colorSecondaryVariant">@color/accent_green</item>
+        <item name="colorOnPrimary">@color/surface_white</item>
+        <item name="colorOnSecondary">@color/surface_white</item>
+        
+        <item name="android:statusBarColor">@color/primary_navy_dark</item>
+        <item name="android:windowBackground">@color/primary_navy_dark</item>
+        <item name="android:navigationBarColor">@color/primary_navy_dark</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">false</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+</resources>

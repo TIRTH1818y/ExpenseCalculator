@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Expense Calculator</string>
+    <string name="dashboard_subtitle">Daily Expense Manager</string>
+
+    <!-- Summary Cards -->
+    <string name="total_expenses_label">Total Expenses</string>
+    <string name="highest_expense_label">Highest Expense</string>
+    <string name="expense_count_label">Total Transactions</string>
+    <string name="no_expenses_recorded">None</string>
+    <string name="currency_symbol">₹</string>
+
+    <plurals name="transaction_count_plural">
+        <item quantity="one">%d entry</item>
+        <item quantity="other">%d entries</item>
+    </plurals>
+
+    <!-- Categories -->
+    <string name="category_all">All</string>
+    <string name="category_food">Food</string>
+    <string name="category_travel">Travel</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_bills">Bills</string>
+    <string name="category_other">Other</string>
+
+    <!-- Breakdown -->
+    <string name="category_breakdown_title">Category Breakdown</string>
+
+    <!-- List & Filter -->
+    <string name="recent_expenses_title">Recent Expenses</string>
+    <string name="search_hint">Search expenses by title…</string>
+    <string name="clear_search">Clear search</string>
+    <string name="empty_expenses_title">No Expenses Found</string>
+    <string name="empty_expenses_subtitle">You haven\'t recorded any expenses yet. Tap the button below to add your first expense.</string>
+    <string name="empty_filter_subtitle">No expenses match your search or filter criteria. Try resetting the filters.</string>
+    <string name="reset_filters">Reset Filters</string>
+
+    <!-- Add Expense -->
+    <string name="add_expense_title">Add Expense</string>
+    <string name="title_hint">Expense Title (e.g. Grocery, Taxi)</string>
+    <string name="amount_hint">Amount</string>
+    <string name="category_label">Select Category</string>
+    <string name="date_label">Expense Date</string>
+    <string name="btn_save_expense">Save Expense</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <!-- Validation Errors -->
+    <string name="error_title_empty">Please enter a valid expense title</string>
+    <string name="error_amount_empty">Please enter an amount</string>
+    <string name="error_amount_invalid">Please enter a valid amount greater than zero</string>
+    <string name="error_category_invalid">Please select a valid category</string>
+    <string name="error_date_invalid">Please select a valid date</string>
+    <string name="expense_saved_success">Expense added successfully!</string>
+    <string name="expense_save_failed">Failed to save expense. Please try again.</string>
+
+    <!-- Delete Confirmation -->
+    <string name="delete_dialog_title">Delete Expense</string>
+    <string name="delete_dialog_message">Are you sure you want to delete "%1$s"? This action cannot be undone.</string>
+    <string name="btn_delete">Delete</string>
+    <string name="expense_deleted_success">Expense deleted successfully</string>
+    <string name="expense_deleted_failed">Failed to delete expense</string>
+</resources>

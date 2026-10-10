@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette (Navy Blue) -->
+    <color name="primary_navy">#0F172A</color>
+    <color name="primary_navy_dark">#020617</color>
+    <color name="primary_navy_light">#1E293B</color>
+    <color name="primary_blue">#1E3A8A</color>
+
+    <!-- Accent Palette (Restrained Emerald Green) -->
+    <color name="accent_green">#059669</color>
+    <color name="accent_green_light">#10B981</color>
+    <color name="accent_green_subtle">#ECFDF5</color>
+    <color name="accent_green_border">#A7F3D0</color>
+
+    <!-- Backgrounds & Surfaces -->
+    <color name="bg_light">#F8FAFC</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="surface_subtle">#F1F5F9</color>
+
+    <!-- Border & Dividers -->
+    <color name="border_color">#E2E8F0</color>
+    <color name="divider_color">#E2E8F0</color>
+
+    <!-- Typography -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_muted">#94A3B8</color>
+    <color name="text_on_navy">#FFFFFF</color>
+    <color name="text_on_navy_secondary">#CBD5E1</color>
+
+    <!-- Semantic / Feedback -->
+    <color name="danger_red">#DC2626</color>
+    <color name="danger_red_subtle">#FEF2F2</color>
+
+    <!-- Category Specific Badges -->
+    <color name="cat_food_bg">#FEF3C7</color>
+    <color name="cat_food_text">#B45309</color>
+    <color name="cat_travel_bg">#DBEAFE</color>
+    <color name="cat_travel_text">#1D4ED8</color>
+    <color name="cat_shopping_bg">#EDE9FE</color>
+    <color name="cat_shopping_text">#6D28D9</color>
+    <color name="cat_bills_bg">#FEE2E2</color>
+    <color name="cat_bills_text">#B91C1C</color>
+    <color name="cat_other_bg">#F1F5F9</color>
+    <color name="cat_other_text">#475569</color>
+
+    <!-- Common -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>
