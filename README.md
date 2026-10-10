@@ -9,8 +9,8 @@ Designed specifically for technical interviews, following a clean **three-layer 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home_screen.png" alt="ExpenseCalculator home screen" width="300" />
-  <img src="screenshots/add_expense.png" alt="ExpenseCalculator add expense screen" width="300" />
+  <img src=""F:\PROJECTs\Flutter Project\ExpenseCalculator\screenshort\s2.jpeg"" alt="ExpenseCalculator home screen" width="300" />
+  <img src=""F:\PROJECTs\Flutter Project\ExpenseCalculator\screenshort\s1.jpeg"" alt="ExpenseCalculator add expense screen" width="300" />
 </p>
 
 ---
