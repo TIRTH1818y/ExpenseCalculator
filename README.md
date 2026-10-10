@@ -1,6 +1,6 @@
 # Expense Calculator - Android Application
 
-A complete, production-ready native Android application built with **Kotlin**, **XML Layouts**, and **SQLite (SQLiteOpenHelper)** to record, view, calculate, search, filter, and delete daily personal expenses offline.
+A complete, production-ready native Android application built with **Kotlin**, **XML Layouts**, and **SQLite (SQLiteOpenHelper)** to record, view, calculate, search, filter, and delete daily personal expenses.
 
 Designed specifically for technical interviews, following a clean **three-layer architecture** with beginner-friendly, well-documented code.
 
@@ -9,8 +9,8 @@ Designed specifically for technical interviews, following a clean **three-layer 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src=""F:\PROJECTs\Flutter Project\ExpenseCalculator\screenshort\s2.jpeg"" alt="ExpenseCalculator home screen" width="300" />
-  <img src=""F:\PROJECTs\Flutter Project\ExpenseCalculator\screenshort\s1.jpeg"" alt="ExpenseCalculator add expense screen" width="300" />
+  <img src="https://github.com/TIRTH1818y/ExpenseCalculator/raw/master/screenshots/s2.jpeg" alt="ExpenseCalculator home screen" width="300" />
+  <img src="https://github.com/TIRTH1818y/ExpenseCalculator/raw/master/screenshots/s1.jpeg" alt="ExpenseCalculator add expense screen" width="300" />
 </p>
 
 ---
@@ -18,7 +18,7 @@ Designed specifically for technical interviews, following a clean **three-layer 
 ## 1. Project Objective & Problem Statement
 
 ### Objective
-Provide users with an intuitive, reliable, and completely offline financial dashboard to manage their daily expenses across key categories, view instant real-time financial summaries, and perform quick record management.
+Provide users with an intuitive, reliable, and completely offline financial dashboard to manage their daily expenses across key categories, view instant real-time financial summaries, and perform quick calculations.
 
 ### Problem Statement
 Managing daily cash outlays and card spending requires a straightforward tool without the latency, privacy risks, or connectivity dependency of cloud applications. Users need:
